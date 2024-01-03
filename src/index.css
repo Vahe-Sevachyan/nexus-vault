@@ -1,6 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-html {
+/* html {
   background-color: rgb(227, 226, 224);
-}
+} */
